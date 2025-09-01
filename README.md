@@ -1,5 +1,6 @@
 # VR-bike-simulator
 Real time interactive bike simulator
-<video width="480" controls>
-  <source src="Bike_Simulator_Demo.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/1778a7d2-4b64-4f21-8617-2074ad2387d3
+
